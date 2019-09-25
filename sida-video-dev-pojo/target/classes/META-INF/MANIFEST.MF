@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sida-video-dev-pojo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 979739537
+Implementation-Vendor-Id: com.sida
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/sida-video-d
+ ev/sida-video-dev-pojo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
